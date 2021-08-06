@@ -1,2 +1,2 @@
 # SummerInternship2021
-The outputfiles for summerInternship 2021
+The output files for summer Internship 2021
