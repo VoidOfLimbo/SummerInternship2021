@@ -9,7 +9,7 @@ OR
 
 https://github.com/VoidofLimbo/SummerInternship2021/raw/main/SummerInternship2021.apk
 
-<img src="https://user-images.githubusercontent.com/22808189/130461919-e88f30b5-675c-45ee-892c-ae50be5abbb1.png" width="10%">
+<img src="https://user-images.githubusercontent.com/22808189/130461919-e88f30b5-675c-45ee-892c-ae50be5abbb1.png" width="20%">
 
 
 Find the code files for the APK here :
