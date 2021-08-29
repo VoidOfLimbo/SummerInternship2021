@@ -19,5 +19,6 @@ Link to repository containing code files for the APK here :
 https://github.com/VoidofLimbo/SummerInternship2021Android/tree/master
 
 The poster:
-<img src="https://github.com/VoidofLimbo/SummerInternship2021/blob/main/Poster%20for%20event.jpg" width="75%">
+
+<img src="https://github.com/VoidofLimbo/SummerInternship2021/blob/main/Poster%20for%20event.jpg" width="30%">
 
