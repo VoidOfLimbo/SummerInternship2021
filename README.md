@@ -22,3 +22,5 @@ The poster:
 
 <img src="https://github.com/VoidofLimbo/SummerInternship2021/blob/main/Poster%20for%20event.jpg" width="30%">
 
+Useful link: https://developer.android.com/studio/debug/am-video (Screen record the emulator)
+
