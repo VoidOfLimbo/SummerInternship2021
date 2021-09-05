@@ -14,9 +14,11 @@ OR
 
 https://github.com/VoidofLimbo/SummerInternship2021/raw/main/SummerInternship2021.apk
 
-Link to repository containing code files for the APK here :
+Link to repository containing code files for the APK here:
 
 https://github.com/VoidofLimbo/SummerInternship2021Android/tree/master
+
+Youtube link: https://youtu.be/B2HsLWFNjuY
 
 The poster:
 
